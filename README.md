@@ -77,7 +77,7 @@ This project was created as part of the Frontend Developer Intern assessment. Th
    ```bash
    npm run dev
    ```
-5. Open your browser and navigate to `http://localhost:4321`.
+5. Open your browser and navigate to `http://localhost:4321`
 
 
 
